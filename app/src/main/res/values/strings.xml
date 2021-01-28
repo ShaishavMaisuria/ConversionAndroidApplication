@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">In Class 02B</string>
+    <string name="InchesString">Inches</string>
+    <string name="NumberString">Enter Inch Value</string>
+    <string name="ToMetersRadioString">To Meters</string>
+    <string name="ToFeetRadioString">To Feet</string>
+    <string name="ToMilesRadioString">To Miles</string>
+    <string name="ClearAllRadioString">Clear All</string>
+    <string name="convertButtonString">Convert</string>
+    <string name="ResultString">Result</string>
+</resources>
